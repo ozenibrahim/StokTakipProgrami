@@ -1,0 +1,53 @@
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.pdb
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Form1.resources
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Properties.Resources.resources
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductInsert.resources
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UICategory.CategoryInsert.resources
+C:\Users\Wissen\Desktop\Wissen - İbrahim Özen\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductUpdate.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Form1.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Properties.Resources.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UICategory.CategoryInsert.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UICategory.CategoryUpdate.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductInsert.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductUpdate.resources
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csproj.GenerateResource.Cache
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Common.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Dal.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Entity.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Common.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Dal.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Common.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Dal.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Dal.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\bin\Debug\ADO.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Form1.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.Properties.Resources.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UICategory.CategoryInsert.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UICategory.CategoryUpdate.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductInsert.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.UIProduct.ProductUpdate.resources
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csproj.GenerateResource.Cache
+C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
+C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
+C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb

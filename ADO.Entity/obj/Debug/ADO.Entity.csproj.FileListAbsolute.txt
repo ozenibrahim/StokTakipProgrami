@@ -1,0 +1,14 @@
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Entity.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Entity.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Common.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Common.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\bin\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Entity\obj\Debug\ADO.Entity.pdb

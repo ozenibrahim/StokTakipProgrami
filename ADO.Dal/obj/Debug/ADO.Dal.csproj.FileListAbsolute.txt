@@ -1,0 +1,18 @@
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Dal.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Dal.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Common.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Entity.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Common.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Entity.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Dal.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Dal.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Common.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\bin\Debug\ADO.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Dal\obj\Debug\ADO.Dal.pdb

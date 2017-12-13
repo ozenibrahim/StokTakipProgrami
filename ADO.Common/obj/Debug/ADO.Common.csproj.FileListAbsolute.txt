@@ -1,0 +1,10 @@
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Common\bin\Debug\ADO.Common.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Common\bin\Debug\ADO.Common.pdb
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.dll
+C:\Users\İbrahim ÖZEN\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Common\bin\Debug\ADO.Common.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Common\bin\Debug\ADO.Common.pdb
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.dll
+C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.Common\obj\Debug\ADO.Common.pdb
