@@ -12,19 +12,16 @@ namespace ADO.UI.UICategory
 {
     using Dal;
     using Entity;
-
     public partial class CategoryUpdate : Form
     {
         public CategoryUpdate()
         {
             InitializeComponent();
         }
-
         private void btnIptal_Click(object sender, EventArgs e)
         {
             this.Hide();
         }
-
         private void btnKategoriGuncelle_Click(object sender, EventArgs e)
         {
             CategoryDAL cDal = new CategoryDAL();
@@ -48,7 +45,6 @@ namespace ADO.UI.UICategory
                 MessageBox.Show(ex.Message);
             }            
         }
-
         public Category category = new Category();
         private void CategoryUpdate_Load(object sender, EventArgs e)
         {

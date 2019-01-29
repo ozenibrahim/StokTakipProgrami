@@ -63,7 +63,6 @@ namespace ADO.Common
             OpenConnection();
             return cmd.ExecuteReader(); 
         }
-
         public int ExecuteNonQuery()
         {
             int result = -1;
@@ -82,7 +81,6 @@ namespace ADO.Common
             }
             return result;
         }
-
         public object ExecuteScalar()
         {
             object result = null;

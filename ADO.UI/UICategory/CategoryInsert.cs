@@ -12,19 +12,16 @@ namespace ADO.UI.UICategory
 {
     using Entity;
     using Dal;
-
     public partial class CategoryInsert : Form
     {
         public CategoryInsert()
         {
             InitializeComponent();
         }
-
         private void btnIptalInsert_Click(object sender, EventArgs e)
         {
             this.Hide();
         }
-
         private void btnKategoriInsert_Click(object sender, EventArgs e)
         {           
             CategoryDAL cDal = new CategoryDAL();

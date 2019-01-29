@@ -51,3 +51,6 @@ C:\Users\Wissen\Desktop\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.csproj.Generat
 C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
 C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
 C:\Users\İbrahim ÖZEN\Desktop\GitHub_Projeleri\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb
+D:\GitHub\StokTakipProgrami\ADO.UI\bin\Debug\ADO.UI.exe.config
+D:\GitHub\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.exe
+D:\GitHub\StokTakipProgrami\ADO.UI\obj\Debug\ADO.UI.pdb
